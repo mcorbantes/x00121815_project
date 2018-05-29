@@ -1,0 +1,15 @@
+#clickStat {
+    background-color: #80e5ff;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    margin-top: 95px;
+    border-radius: 5%;
+    border-style: solid;
+}
+
+#totalClicks {
+    text-align: center;
+    font-family: Pacifico;
+    font-size: 15px;
+}
+

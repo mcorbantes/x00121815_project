@@ -1,0 +1,14 @@
+#reloadStat {
+    background-color: #80e5ff;
+    padding-top: 55px;
+    padding-bottom: 50px;
+    margin-top: 95px;
+    border-radius: 5%;
+    border-style: solid;
+}
+
+#pageload {
+    text-align: center;
+    font-family: Pacifico;
+    font-size: 15px;
+}

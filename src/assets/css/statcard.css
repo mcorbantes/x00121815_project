@@ -1,0 +1,54 @@
+hr.style {
+    height: 1.5px;
+    border: 0;
+    box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+
+p, h4 {
+    font-family: serif;
+    color: black;
+    text-align: center;
+
+}
+
+#statCard {
+    text-align: center;
+    font-family: Pacifico;
+    font-size: 15px;
+}
+
+.counter {
+    font-weight: bold;
+}
+
+#stat1 {
+    background-color: #e6faff;
+    border-style: solid;
+    border-width: medium;
+    border-color: black;
+    border-radius: 5%;
+}
+
+#stat2 {
+    background-color: #ccf5ff;
+    border-style: solid;
+    border-width: medium;
+    border-color: black;
+    border-radius: 5%;
+}
+
+#stat3 {
+    background-color: #80e5ff;
+    border-style: solid;
+    border-width: medium;
+    border-color: black;
+    border-radius: 5%;
+}
+
+#stat4 {
+    background-color: #4ddbff;
+    border-style: solid;
+    border-width: medium;
+    border-color: black;
+    border-radius: 5%;
+}

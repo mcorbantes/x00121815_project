@@ -1,0 +1,23 @@
+#signInStat {
+    background-color: #80e5ff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 85px;
+    border-radius: 5%;
+    border-style: solid;
+}
+
+#signOutStat {
+    background-color: #80e5ff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 85px;
+    border-radius: 5%;
+    border-style: solid;
+}
+
+#sign {
+    text-align: center;
+    font-family: Pacifico;
+    font-size: 15px;
+}
